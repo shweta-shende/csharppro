@@ -25,7 +25,7 @@ namespace Projectc1.Numbers
             }
             if (n == i)
             {
-
+                Console.WriteLine();
                 Console.WriteLine(  );
                 Console.WriteLine("its a prime number");
             }
