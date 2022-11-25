@@ -8,7 +8,7 @@ namespace Projectc1.Numbers
 {
     internal class ArmStrongNumber
     {
-        static void Main8S()
+        static void Mainnn()
         {
             Console.WriteLine("enter a number");
            int n= int.Parse(Console.ReadLine());

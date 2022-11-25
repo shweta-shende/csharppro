@@ -34,7 +34,7 @@ internal class Selenii : IaJavaa, IcSharp
     {
         Console.WriteLine("java lang");
     }
-    static void Main()
+    static void Mainaa()
     {
         IaJavaa j = new Selenii();
         j.developersName();

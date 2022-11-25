@@ -8,7 +8,7 @@ namespace Projectc1.Numbers
 {
     internal class FactorialOfGivenNum
     {
-        static void Main1()
+        static void ain1888()
         {
             Console.WriteLine("enter the number");
            int n= int.Parse(Console.ReadLine());

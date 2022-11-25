@@ -1,7 +1,0 @@
-class
-{ 
-static void Mainn
-{
-
-}
-}

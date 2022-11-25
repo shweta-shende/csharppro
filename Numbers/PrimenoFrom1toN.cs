@@ -8,13 +8,13 @@ namespace Projectc1.Numbers
 {
     internal class PrimenoFrom1toN
     {
-        static void Main0()
+        static void Maain()
         {
             Console.WriteLine("enter a number");
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine("prime number between 1 and " + n);
             //loop through the num one by one
-            for (int i = 1; i < n; i++)
+            for (int i = 2; i < n; i++)
             {
                 Boolean isPrime = true;
                 //check to see if the num is prime
