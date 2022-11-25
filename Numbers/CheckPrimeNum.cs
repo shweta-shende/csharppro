@@ -8,7 +8,7 @@ namespace Projectc1.Numbers
 {
     internal class CheckPrimeNum
     {
-        static void Mmmm1()
+        static void Mainn()
         {
             Console.WriteLine("enter a number");
        int   n = int.Parse(Console.ReadLine());

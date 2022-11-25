@@ -8,7 +8,7 @@ namespace Projectc1.Numbers
 {
     internal class FabnacciSeries
     {
-        static void Main1()
+        static void Mainn()
         {
             Console.WriteLine("enter first number");
             int a=int.Parse(Console.ReadLine());

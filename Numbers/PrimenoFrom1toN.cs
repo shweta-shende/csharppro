@@ -8,7 +8,7 @@ namespace Projectc1.Numbers
 {
     internal class PrimenoFrom1toN
     {
-        static void Maain()
+        static void Mainv()
         {
             Console.WriteLine("enter a number");
             int n = int.Parse(Console.ReadLine());
